@@ -28,47 +28,47 @@ DriverVer           = 03/30/2004,0.0.0.0
 
 [AndroidDevices]
 ; Google Nexus One without adb
-%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_4E13
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; Google Nexus One with adb
-%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_4E14
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; HTC Sapphire without adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0FFE
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; HTC Sapphire with adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0FFC
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; Motorola Sholes without adb
-%AndroidDevice%    = RNDIS, USB\VID_22B8&PID_41E4
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; Motorola Sholes with adb
-%AndroidDevice%    = RNDIS, USB\VID_22B8&PID_41E5
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; Samsung Galaxy I7500 without adb
-%AndroidDevice%    = RNDIS, USB\VID_04E8&PID_6605
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; Samsung Galaxy I7500 with adb
-%AndroidDevice%    = RNDIS, USB\VID_04E8&PID_6606
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; HTC One (M7) without adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0F60
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; HTC Butterfly without adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0F64
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 
 [AndroidDevices.NT.5.1]
 ; Google Nexus One without adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_4E13
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; Google Nexus One with adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_4E14
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; HTC Sapphire without adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_0BB4&PID_0FFE
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; HTC Sapphire with adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_0BB4&PID_0FFC
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; Motorola Sholes without adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_22B8&PID_41E4
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; Motorola Sholes with adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_22B8&PID_41E5
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; Samsung Galaxy I7500 without adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_04E8&PID_6605
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; Samsung Galaxy I7500 with adb
-%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_04E8&PID_6606
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_18D1&PID_D00D
 ; HTC One (M7) without adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0F60
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 ; HTC Butterfly without adb
-%AndroidDevice%    = RNDIS, USB\VID_0BB4&PID_0F64
+%AndroidDevice%    = RNDIS, USB\VID_18D1&PID_D00D
 
 [ControlFlags]
 ExcludeFromSelect=*
